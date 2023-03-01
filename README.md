@@ -1,6 +1,6 @@
   
 
-### <h1 align="left">Hi 👋! I'm Amer, a software engineer, and iOS developer 👨🏻‍💻</h1>
+### <h1 align="left">Hi 👋! I'm Amer, a software engineer, iOS developer  full stack developer 👨🏻‍💻</h1>
   
 
 - 🎓 I graduated from  iOS Bootcamp provided by [Coding Dojo](https://www.codingdojo.com/) . all my work in the Bootcamp is available here [iOS-Bootcamp](https://github.com/iOS-Bootcamp-Projects)  
