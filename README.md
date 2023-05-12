@@ -34,6 +34,15 @@
 <a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/express-original-wordmark.svg" alt="Express.js" height="50" /></a>  
 <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://cdn4.iconfinder.com/data/icons/social-media-logos-6/512/23-swift-1024.png" alt="Swift" height="50" /></a>  
 <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
+  <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://www.docker.com/wp-content/uploads/2022/03/vertical-logo-monochromatic.png" alt="Docker" height="50" /></a>  
+  <a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="PHP" height="50" /></a>
+  <a href="https://tailwindui.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Tailwind_CSS_Logo.svg/1024px-Tailwind_CSS_Logo.svg.png" alt="Tailwind" height="50" /></a>  
+<a href="https://laravel.com/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Laravel.svg/1200px-Laravel.svg.png" alt="Laravel" height="50" /></a> 
+  <a href="https://vuejs.org/" target="_blank"><img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Vue.js_Logo_2.svg/1200px-Vue.js_Logo_2.svg.png" alt="Vue" height="50" /></a>  
+  
+  
+  
+  
 </div>
 
 
