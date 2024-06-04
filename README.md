@@ -65,7 +65,7 @@
 <h3 align="left"></h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/aamer-alhelaly/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedIn" height="30" width="40" /></a>
-  <a href="https://medium.com/@aamer.alhelaly target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="3131" height="50" width="50" /></a>
+  <a href="https://medium.com/@aamer.alhelaly" target="blank"><img align="center" src="https://cdn.icon-icons.com/icons2/3041/PNG/512/medium_logo_icon_189223.png" alt="3131" height="50" width="50" /></a>
    <a href="mailto:aamer.alhelaly@gmail.com" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/800px-Gmail_icon_%282020%29.svg.png" alt="3131" height="30" width="40" /></a>
 </p>
 
